@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/93381397/221013902-f95d861b-c9d6-45c7-a668-440cc3d0a259.jpg"  width="100" height="100">
+<img src="https://github.com/Devanshu-17/Odin/assets/93381397/e09e1aee-fd87-4d3b-be4f-1dbd0530cbe8"  width="100" height="100">
 
 # Odin: Revolutionising Attendance Management with Signature Recognition
 
