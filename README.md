@@ -104,12 +104,6 @@ If you wish to contribute to Odin, please submit a pull request with your propos
 
 -   [@Devanshu-17](https://github.com/Devanshu-17)
 
-## Contact:
-
-If you have any questions or concerns about Odin, please contact us at devanshumahapatra17@gmail.com. We appreciate your feedback and will do our best to respond as soon as possible.
-
-Thank you for choosing Odin!
-
 ## License
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
